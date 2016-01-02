@@ -1,0 +1,4 @@
+/v2/node_modules
+/v2/bower_components
+/v2/http.bat
+.idea
